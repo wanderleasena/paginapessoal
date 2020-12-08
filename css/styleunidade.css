@@ -1,0 +1,35 @@
+
+ *{
+    margin: 0;
+  padding: 0;
+ }
+
+ body{
+    background: #a8ca58;
+    color#ffffff;
+    font-family:verdana, arial, sans-serif, times;
+    height:2px;
+    font-size:20px;
+    background: url("images/bk_body_jpg");
+   }
+
+.fundo {
+    background-color: rgba(52, 134, 32, 0.438);
+    margin:2px,2px,2px;
+    height:20px;
+}
+
+#container{
+    widows: 80px; 
+    margin: 0 auto;
+}
+
+.font-style:{
+    font-style: italic;
+    font-style: normal;
+}
+
+    .font-weight {
+        font-weight: normal;
+        font-weight:bold;
+    }
